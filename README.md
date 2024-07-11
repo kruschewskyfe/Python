@@ -1,2 +1,2 @@
 # Python
-Projetos em Python
+Estudos em Python
